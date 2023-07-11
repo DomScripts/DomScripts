@@ -29,3 +29,9 @@ Hello! I'm Dominic, a passionate full-stack developer with a specialization in L
 [![FiveM dom_mining | Extremely Configurable | Standalone | FREE](https://ytcards.demolab.com/?id=5n64Xu9P08Y&title=FiveM+dom_mining+%7C+Extremely+Configurable+%7C+Standalone+%7C+FREE&lang=en&timestamp=1678572937&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "FiveM dom_mining | Extremely Configurable | Standalone | FREE")](https://www.youtube.com/watch?v=5n64Xu9P08Y)
 [![FiveM dom_chopshop | Extremely Configurable | Standalone | FREE](https://ytcards.demolab.com/?id=LDgTD1w18Hw&title=FiveM+dom_chopshop+%7C+Extremely+Configurable+%7C+Standalone+%7C+FREE&lang=en&timestamp=1678571096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "FiveM dom_chopshop | Extremely Configurable | Standalone | FREE")](https://www.youtube.com/watch?v=LDgTD1w18Hw)
 <!-- END YOUTUBE-CARDS -->
+
+#
+
+### 📊 Stats
+
+![DomScript's GitHub stats](https://github-readme-stats.vercel.app/api?username=domscripts&show_icons=true&theme=dark)
