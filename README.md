@@ -36,4 +36,4 @@ Hello! I'm Dominic, a passionate full-stack developer with a specialization in L
 
 ![DomScript's GitHub stats](https://github-readme-stats.vercel.app/api?username=domscripts&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domscripts&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domscripts)](https://github.com/anuraghazra/github-readme-stats)
