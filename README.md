@@ -34,4 +34,4 @@ Hello! I'm Dominic, a passionate full-stack developer with a specialization in L
 
 ### 📊 Stats
 
-![DomScript's GitHub stats](https://github-readme-stats.vercel.app/api?username=domscripts&show_icons=true&theme=dark)
+![DomScript's GitHub stats](https://github-readme-stats-domscripts.vercel.app/api?username=domscripts&show_icons=true&theme=dark)
